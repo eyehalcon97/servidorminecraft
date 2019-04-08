@@ -1,0 +1,3 @@
+villager:norman_armoredbandit
+village:norman_bandittower
+building:norman_bandittower

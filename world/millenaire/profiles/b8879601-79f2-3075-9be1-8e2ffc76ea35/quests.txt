@@ -1,0 +1,5 @@
+quest:architectwife;step:0;startTime:132000;currentStepStartTime:132000;villager:startvillager,3999823141964125310,383/72/-153;villager:architect,2524025378747859053,383/72/-153
+quest:mayanlumbermanaxe;step:0;startTime:7000;currentStepStartTime:7000;villager:startvillager,7055555850400872663,337/68/538
+quest:loneminerfood;step:0;startTime:8000;currentStepStartTime:8000;villager:startvillager,6139320799310044365,722/101/663
+quest:fishingfrenzy;step:0;startTime:11000;currentStepStartTime:11000;villager:startvillager,4635487754098672725,895/73/915;villager:wife,7311801367333938581,895/73/915
+quest:startingtrader;step:0;startTime:12000;currentStepStartTime:12000;villager:startvillager,7209997041955542768,895/73/915

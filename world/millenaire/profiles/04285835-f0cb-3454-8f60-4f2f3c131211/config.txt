@@ -1,0 +1,11 @@
+player_name=ZenyxGames
+donation_mode=false
+village_diplomacy=1047/67/-794,5
+village_diplomacy=1907/67/-1711,5
+village_diplomacy=1177/70/159,5
+village_diplomacy=383/72/-153,5
+village_diplomacy=2396/70/-2555,5
+village_diplomacy=1198/75/-638,5
+village_diplomacy=1212/64/-830,5
+village_diplomacy=-463/68/-433,5
+village_diplomacy=1268/69/-421,5

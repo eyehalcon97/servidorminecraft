@@ -1,0 +1,7 @@
+player_name=adritec96
+donation_mode=false
+village_diplomacy=268/70/-6641,5
+village_diplomacy=631/69/-1694,5
+village_diplomacy=1177/70/159,5
+village_diplomacy=383/72/-153,5
+village_diplomacy=895/73/915,5

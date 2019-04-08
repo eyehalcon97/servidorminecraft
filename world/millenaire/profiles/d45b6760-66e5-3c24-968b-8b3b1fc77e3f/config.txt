@@ -1,0 +1,14 @@
+player_name=eyehalcon97
+donation_mode=false
+culture_reputation=norman,-4
+village_reputations=722/101/663,-40
+village_diplomacy=1569/66/961,5
+village_diplomacy=557/66/1583,5
+village_diplomacy=268/70/-6641,5
+village_diplomacy=631/69/-1694,5
+village_diplomacy=1177/70/159,5
+village_diplomacy=383/72/-153,5
+village_diplomacy=242/72/2522,5
+village_diplomacy=2142/71/613,5
+village_diplomacy=1642/68/-2698,5
+village_diplomacy=895/73/915,5

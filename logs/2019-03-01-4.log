@@ -1,0 +1,144 @@
+[20:43:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:43:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:43:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:43:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2814 for Minecraft 1.12.2 loading
+[20:43:52] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_201
+[20:43:52] [main/INFO] [FML]: Searching C:\Users\adrij\Desktop\SERVER\.\mods for mods
+[20:43:52] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in backpacks+1.12.2+-+3.5.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:43:52] [main/WARN] [FML]: The coremod BCModPlugin (brad16840.core.BCModPlugin) is not signed!
+[20:43:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:43:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:43:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:43:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:43:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:43:53] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:43:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:43:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:43:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:43:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:43:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:43:53] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[20:43:57] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2814 Initialized
+[20:43:57] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_201]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_201]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_201]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_201]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_201]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_201]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_201]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_201]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_201]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[20:43:57] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:43:57] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[20:43:58] [Server thread/INFO] [FML]: Searching C:\Users\adrij\Desktop\SERVER\.\mods for mods
+[20:43:59] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.59.842
+[20:43:59] [Server thread/INFO] [FML]: Forge Mod Loader has identified 12 mods to load
+[20:43:59] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[20:43:59] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[20:44:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, backpacks16840, bookshelf, dimdoors, eplus, ic2, ironchest, millenaire, vanilladeathchest] at CLIENT
+[20:44:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, backpacks16840, bookshelf, dimdoors, eplus, ic2, ironchest, millenaire, vanilladeathchest] at SERVER
+[20:44:02] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:44:02] [Server thread/INFO] [FML]: Found 1374 ObjectHolder annotations
+[20:44:02] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:44:02] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:44:02] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:44:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:44:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[20:44:02] [Forge Version Check/INFO] [forge.VersionCheck]: [vanilladeathchest] Starting version check at https://raw.githubusercontent.com/TheRandomLabs/VanillaDeathChest/misc/versions.json
+[20:44:03] [Forge Version Check/INFO] [forge.VersionCheck]: [vanilladeathchest] Found status: UP_TO_DATE Target: null
+[20:44:08] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 328 out of 328 recipes for shaped recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 73 out of 73 recipes for shapeless recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[20:44:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[20:44:09] [Server thread/WARN] [millenaire]: No need to redeploy Millénaire as the millenaire folder is already at vesion 7.1.2.
+[20:44:09] [Server thread/INFO] [FML]: SRV ERROR: null: Unknown config on line: generate_colour_chart=false
+[20:44:09] [Server thread/INFO] [FML]: SRV ERROR: null: Unknown config on line: generate_goods_list=false
+[20:44:09] [Server thread/INFO] [STDOUT]: [org.millenaire.common.config.MillConfigValues:readConfigFile:508]: Read config in config-server.txt. Logging: true/true
+[20:44:09] [Server thread/INFO] [STDOUT]: [org.millenaire.common.config.MillConfigValues:readConfigFile:508]: Read config in config-server-custom.txt. Logging: true/true
+[20:44:09] [Server thread/INFO] [FML]: SRV Starting new session. Mods: examplemod 
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `backpack_block`, expected `backpacks16840`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `quantumchest`, expected `backpacks16840`. This could be a intended override, but in most cases indicates a broken mod.
+[20:44:09] [Server thread/INFO] [FML]: Applying holder lookups
+[20:44:09] [Server thread/INFO] [FML]: Holder lookups applied
+[20:44:10] [Server thread/INFO] [FML]: Applying holder lookups
+[20:44:10] [Server thread/INFO] [FML]: Holder lookups applied
+[20:44:10] [Server thread/INFO] [FML]: Applying holder lookups
+[20:44:10] [Server thread/INFO] [FML]: Holder lookups applied
+[20:44:10] [Server thread/INFO] [FML]: Applying holder lookups
+[20:44:10] [Server thread/INFO] [FML]: Holder lookups applied
+[20:44:10] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:44:10] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[20:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[20:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[20:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[20:44:10] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[20:44:11] [Server thread/INFO] [FML]: Applying holder lookups
+[20:44:11] [Server thread/INFO] [FML]: Holder lookups applied
+[20:44:12] [Server thread/INFO] [dimdoors]: Loaded 156 templates in 1000 ms.
+[20:44:25] [Server thread/INFO] [FML]: SRV MAJOR: null: Loading language: fr
+[20:44:30] [Server thread/INFO] [FML]: SRV MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+[20:44:30] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:44:30] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:44:30] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[20:44:30] [Server thread/INFO] [ic2.General]: ic2 version 2.8.109-ex112 loaded.
+[20:44:30] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 12 mods
+[20:44:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[20:44:32] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[20:44:32] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: dimdoors:mob_monolith Expected: 0 Got: 82
+[20:44:32] [Server thread/INFO] [FML]: Applying holder lookups
+[20:44:32] [Server thread/INFO] [FML]: Holder lookups applied
+[20:44:32] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 551 advancements
+[20:44:33] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [FML]: Loading dimension 684 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [FML]: Loading dimension 685 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [FML]: Loading dimension 686 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [FML]: Loading dimension 687 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [FML]: Loading dimension 688 (world) (net.minecraft.server.dedicated.DedicatedServer@11d52804)
+[20:44:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[20:44:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[20:44:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
+[20:44:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8,287s)! For help, type "help" or "?"
+[20:44:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:44:39] [Server thread/INFO] [FML]: Unloading dimension 1
+[20:44:39] [Server thread/INFO] [FML]: Unloading dimension 684
+[20:44:39] [Server thread/INFO] [FML]: Unloading dimension 685
+[20:44:39] [Server thread/INFO] [FML]: Unloading dimension 686
+[20:44:39] [Server thread/INFO] [FML]: Unloading dimension 687
+[20:44:39] [Server thread/INFO] [FML]: Unloading dimension 688
+[20:45:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2399ms behind, skipping 47 tick(s)

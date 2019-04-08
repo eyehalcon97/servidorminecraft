@@ -1,0 +1,15 @@
+villager:byzantines_boy_byzantine
+villager:byzantines_girl_byzantine
+villager:byzantines_miner_byzantine
+villager:japanese_japanese_peasantwife
+village:byzantines_military
+village:japanese_gunji
+building:byzantines_grovebyzantine
+building:japanese_japanesefort
+building:byzantines_fisherbyzantine
+building:japanese_japanesepeasanth
+building:byzantines_wellbyzantine
+building:japanese_japaneseinn
+building:byzantines_quarrybyzantine
+building:byzantines_sheepbyzantine
+building:japanese_japanesefishery

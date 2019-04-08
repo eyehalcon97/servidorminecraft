@@ -1,0 +1,6 @@
+quest:normanrasgullas;step:0;startTime:54000;currentStepStartTime:54000;villager:startvillager,7859869576460582773,631/69/-1694;villager:child,8572504783677099949,631/69/-1694
+quest:architectwife;step:0;startTime:58000;currentStepStartTime:58000;villager:startvillager,3999823141964125310,383/72/-153;villager:architect,2524025378747859053,383/72/-153
+quest:loneminerfood;step:0;startTime:10000;currentStepStartTime:10000;villager:startvillager,6139320799310044365,722/101/663
+quest:fishingfrenzy;step:0;startTime:11000;currentStepStartTime:11000;villager:startvillager,4635487754098672725,895/73/915;villager:wife,7311801367333938581,895/73/915
+quest:lumbermancider;step:0;startTime:9000;currentStepStartTime:9000;villager:startvillager,448877066971173592,1569/66/961
+quest:findtheegg;step:0;startTime:6000;currentStepStartTime:6000;villager:startvillager,6057617584617201727,337/68/538

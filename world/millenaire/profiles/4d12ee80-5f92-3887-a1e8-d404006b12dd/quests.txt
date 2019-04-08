@@ -1,0 +1,3 @@
+quest:lumbermancider;step:0;startTime:8000;currentStepStartTime:8000;villager:startvillager,6162941985634636458,242/72/2522
+quest:fishingfrenzy;step:0;startTime:10000;currentStepStartTime:10000;villager:startvillager,6335318473999839775,-673/69/4547;villager:wife,6806072389219632053,-673/69/4547
+quest:fishingfrenzy;step:0;startTime:3000;currentStepStartTime:3000;villager:startvillager,561720047564656570,-1137/76/3987;villager:wife,1361054162131694711,-1137/76/3987

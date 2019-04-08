@@ -1,0 +1,3 @@
+quest:lumbermancider;step:0;startTime:9000;currentStepStartTime:9000;villager:startvillager,5785046595130925293,-463/68/-433
+quest:architectwife;step:0;startTime:10000;currentStepStartTime:10000;villager:startvillager,3999823141964125310,383/72/-153;villager:architect,2524025378747859053,383/72/-153
+quest:lumbermancider;step:0;startTime:4000;currentStepStartTime:4000;villager:startvillager,5522897982492538237,1047/67/-794

@@ -1,0 +1,6 @@
+player_name=Natzsch
+donation_mode=false
+village_diplomacy=631/69/-1694,5
+village_diplomacy=383/72/-153,5
+village_diplomacy=2142/71/613,5
+village_diplomacy=895/73/915,5

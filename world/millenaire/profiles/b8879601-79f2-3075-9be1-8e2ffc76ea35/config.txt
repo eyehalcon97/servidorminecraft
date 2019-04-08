@@ -1,0 +1,12 @@
+player_name=adri
+donation_mode=false
+culture_reputation=byzantines,-79
+village_reputations=383/72/-153,-796
+village_diplomacy=1177/70/159,5
+village_diplomacy=383/72/-153,5
+village_diplomacy=583/72/-1187,5
+village_diplomacy=337/68/538,5
+village_diplomacy=1198/75/-638,5
+village_diplomacy=895/73/915,5
+village_diplomacy=1212/64/-830,5
+village_diplomacy=1268/69/-421,5

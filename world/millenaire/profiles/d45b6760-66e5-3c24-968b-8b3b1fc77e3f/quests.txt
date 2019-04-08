@@ -1,0 +1,6 @@
+quest:lumbermancider;step:0;startTime:32000;currentStepStartTime:32000;villager:startvillager,6487981288150108615,631/69/-1694
+quest:normanrasgullas;step:0;startTime:50000;currentStepStartTime:50000;villager:startvillager,7859869576460582773,631/69/-1694;villager:child,8572504783677099949,631/69/-1694
+quest:lumbermancider;step:0;startTime:11000;currentStepStartTime:11000;villager:startvillager,2134895396743570813,631/69/-1694
+quest:lumbermanwine;step:0;startTime:4000;currentStepStartTime:4000;villager:startvillager,42710199294924441,2142/71/613
+quest:mayanlumbermanaxe;step:0;startTime:6000;currentStepStartTime:6000;villager:startvillager,7055555850400872663,337/68/538
+quest:architectwife;step:0;startTime:36000;currentStepStartTime:36000;villager:startvillager,3999823141964125310,383/72/-153;villager:architect,2524025378747859053,383/72/-153
